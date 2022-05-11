@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379133767742",
+    "project_id": "labbb-d9edf",
+    "storage_bucket": "labbb-d9edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379133767742:android:d5fdae28139a6c73fee16f",
+        "android_client_info": {
+          "package_name": "com.example.labbb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379133767742-epdvg44vn8eejg50r0ie9qk37fjh1ka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICJ7Mv_fXajmzMEIR7WJanfMqWNS-tf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379133767742-epdvg44vn8eejg50r0ie9qk37fjh1ka7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
